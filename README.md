@@ -2,7 +2,7 @@
 
 Go to brideweave-assessment/client directory
 
-# npm install
+### `npm install`
 
 this will install all dependencies
 
