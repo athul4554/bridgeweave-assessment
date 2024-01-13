@@ -1,7 +1,6 @@
 import React from "react";
 import { render, screen } from "@testing-library/react";
 import { BrowserRouter } from "react-router-dom";
-import { Pagination } from "react-bootstrap";
 import NavBar from "./NavBar";
 
 HTMLCanvasElement.prototype.getContext = jest.fn();

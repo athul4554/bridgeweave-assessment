@@ -1,5 +1,6 @@
 import React, { createContext, useState, useContext, useRef } from "react";
 import { ContextTypes, StudentCatalogType, StudentOrg } from "./helper";
+import axios from "axios";
 
 export const DataContext = createContext<ContextTypes>({
   data: [],
@@ -13,7 +14,6 @@ export const DataContext = createContext<ContextTypes>({
 });
 
 const DataContextProvider = ({ children }: { children: any }) => {
-  const axios = require("axios");
   const [data, setData] = useState<StudentOrg[]>([]);
   const [isSortAsc, setIsSortAsc] = useState<boolean>(false);
   const [error, setError] = useState(false);
