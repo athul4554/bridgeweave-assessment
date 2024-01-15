@@ -28,4 +28,4 @@ Your app is ready to be deployed!
 
 # Demo
 
-![demo](blob:https://gifcap.dev/b578327f-2621-4be6-82f2-a2b5a6825c81)
+![Recording 2024-01-15 at 14 05 21](https://github.com/athul4554/bridgeweave-assessment/assets/64543919/f0c77ae2-1e61-43e8-ba93-d8999d63c3d3)
