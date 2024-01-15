@@ -28,4 +28,4 @@ Your app is ready to be deployed!
 
 # Demo
 
-![demo](https://gifcap.dev/b578327f-2621-4be6-82f2-a2b5a6825c81)
+![demo](blob:https://gifcap.dev/b578327f-2621-4be6-82f2-a2b5a6825c81)
