@@ -26,3 +26,6 @@ Your app is ready to be deployed!
 ### `serve -s build`
 
 
+# Demo
+
+![demo](https://gifcap.dev/b578327f-2621-4be6-82f2-a2b5a6825c81)
